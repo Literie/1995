@@ -1,0 +1,257 @@
+{
+  "brand": {
+    "name": "Linge Maison Univers",
+    "slogan": "Ma maison en beauté",
+    "phoneDisplay": "+33 6 00 00 00 00",
+    "phoneWhatsapp": "33600000000",
+    "email": "contact@lingemaisonunivers.fr",
+    "address": "12 rue des Tisserands, 75000 Paris",
+    "instagram": "https://instagram.com/lingemaisonunivers",
+    "facebook": "https://facebook.com/lingemaisonunivers",
+    "siteUrl": "https://literie.github.io/1995",
+    "formspreeOrderId": "VOTRE_ID_FORMSPREE_COMMANDE",
+    "formspreeNewsletterId": "VOTRE_ID_FORMSPREE_NEWSLETTER"
+  },
+  "products": [
+    {
+      "id": 1,
+      "slug": "parure-satin-ivoire",
+      "name": "Parure de lit satin Ivoire",
+      "category": "Parures de lit",
+      "price": 79.9,
+      "oldPrice": 99.9,
+      "sku": "LMU-001",
+      "colors": [
+        {
+          "name": "Ivoire",
+          "hex": "#F1E9DC"
+        },
+        {
+          "name": "Taupe",
+          "hex": "#9C8E7E"
+        },
+        {
+          "name": "Nuit",
+          "hex": "#1F2A3C"
+        }
+      ],
+      "image": "parure-satin-ivoire.svg",
+      "shortDescription": "Parure 2 ou 3 pièces en satin de coton, toucher soyeux et brillance discrète.",
+      "description": "Cette parure de lit en satin de coton apporte une touche d'élégance hôtelière à votre chambre. Le tissage serré offre un toucher soyeux, une belle tenue dans le temps et un léger éclat qui sublime la lumière. Housse de couette + taie(s) assorties, fermeture par boutons, finitions cousues main sur les ourlets.",
+      "metaTitle": "Parure de lit satin Ivoire | Linge Maison Univers",
+      "metaDescription": "Parure de lit satin de coton Ivoire, toucher soyeux et finitions soignées. Livraison rapide, paiement à la livraison. Découvrez-la sur Linge Maison Univers."
+    },
+    {
+      "id": 2,
+      "slug": "housse-couette-percale",
+      "name": "Housse de couette Percale de coton",
+      "category": "Housses de couette",
+      "price": 54.9,
+      "oldPrice": null,
+      "sku": "LMU-002",
+      "colors": [
+        {
+          "name": "Blanc neige",
+          "hex": "#FBFAF7"
+        },
+        {
+          "name": "Bleu orage",
+          "hex": "#3C4A5E"
+        }
+      ],
+      "image": "housse-couette-percale.svg",
+      "shortDescription": "Percale de coton 100%, tissage serré, fraîcheur et respirabilité toute l'année.",
+      "description": "La percale de coton est réputée pour son tissage extra-serré qui lui donne un aspect mat et un toucher frais, idéal été comme hiver. Cette housse de couette se ferme par une bande de pression dissimulée et par 4 rubans intérieurs qui maintiennent la couette bien en place.",
+      "metaTitle": "Housse de couette Percale de coton | Linge Maison Univers",
+      "metaDescription": "Housse de couette en percale de coton 100%, fraîche et respirante. Plusieurs coloris disponibles. Paiement à la livraison, commande confirmée par téléphone."
+    },
+    {
+      "id": 3,
+      "slug": "drap-plat-lin-lave",
+      "name": "Drap plat en lin lavé",
+      "category": "Draps",
+      "price": 44.9,
+      "oldPrice": null,
+      "sku": "LMU-003",
+      "colors": [
+        {
+          "name": "Lin naturel",
+          "hex": "#D8CBB5"
+        },
+        {
+          "name": "Argile",
+          "hex": "#B4675A"
+        },
+        {
+          "name": "Sauge",
+          "hex": "#8A9A82"
+        }
+      ],
+      "image": "drap-plat-lin-lave.svg",
+      "shortDescription": "100% lin lavé, texture légèrement froissée assumée, tombé fluide.",
+      "description": "Le lin lavé se distingue par sa texture douce dès le premier lavage et son aspect légèrement froissé qui n'a pas besoin d'être parfait pour être beau. Résistant et thermorégulateur, il s'adoucit encore un peu plus à chaque lavage.",
+      "metaTitle": "Drap plat en lin lavé | Linge Maison Univers",
+      "metaDescription": "Drap plat 100% lin lavé, doux et thermorégulateur, plusieurs teintes naturelles. Livraison à domicile, paiement à la réception de votre commande."
+    },
+    {
+      "id": 4,
+      "slug": "taies-oreiller-brodees",
+      "name": "Duo de taies d'oreiller brodées",
+      "category": "Taies d'oreiller",
+      "price": 24.9,
+      "oldPrice": 29.9,
+      "sku": "LMU-004",
+      "colors": [
+        {
+          "name": "Blanc",
+          "hex": "#FBFAF7"
+        },
+        {
+          "name": "Poudré",
+          "hex": "#E3C9C6"
+        }
+      ],
+      "image": "taies-oreiller-brodees.svg",
+      "shortDescription": "Coton peigné brodé, finitions bourdon, lot de 2 taies 65x65 cm.",
+      "description": "Ce duo de taies d'oreiller en coton peigné est orné d'une fine broderie bourdon sur le bord, pour une touche raffinée sans surcharger la chambre. Format standard 65x65 cm, fermeture par volant intérieur.",
+      "metaTitle": "Taies d'oreiller brodées (lot de 2) | Linge Maison Univers",
+      "metaDescription": "Duo de taies d'oreiller en coton peigné avec broderie fine. Format 65x65 cm. Commande rapide, paiement à la livraison, rappel de confirmation."
+    },
+    {
+      "id": 5,
+      "slug": "couette-4-saisons",
+      "name": "Couette 4 saisons 240x260",
+      "category": "Couettes & Oreillers",
+      "price": 89.9,
+      "oldPrice": null,
+      "sku": "LMU-005",
+      "colors": [
+        {
+          "name": "Blanc",
+          "hex": "#FBFAF7"
+        }
+      ],
+      "image": "couette-4-saisons.svg",
+      "shortDescription": "Deux couettes assemblables par boutons pression, chaude toute l'année.",
+      "description": "Cette couette 4 saisons se compose de deux couettes de garnissages différents, à assembler selon la saison grâce à des boutons-pression. Housing en coton, garnissage en fibres siliconées gonflantes, traitement anti-acariens.",
+      "metaTitle": "Couette 4 saisons 240x260 cm | Linge Maison Univers",
+      "metaDescription": "Couette 4 saisons ajustable selon la température, garnissage anti-acariens. Livraison à domicile et paiement à la livraison chez Linge Maison Univers."
+    },
+    {
+      "id": 6,
+      "slug": "oreiller-memoire-forme",
+      "name": "Oreiller à mémoire de forme",
+      "category": "Couettes & Oreillers",
+      "price": 34.9,
+      "oldPrice": null,
+      "sku": "LMU-006",
+      "colors": [
+        {
+          "name": "Blanc",
+          "hex": "#FBFAF7"
+        }
+      ],
+      "image": "oreiller-memoire-forme.svg",
+      "shortDescription": "Mousse à mémoire de forme ergonomique, housse déhoussable et lavable.",
+      "description": "Cet oreiller en mousse à mémoire de forme épouse la courbe de la nuque et des épaules pour un maintien ferme et confortable. Sa housse en coton est déhoussable et se lave en machine.",
+      "metaTitle": "Oreiller à mémoire de forme | Linge Maison Univers",
+      "metaDescription": "Oreiller ergonomique à mémoire de forme, housse lavable, maintien ferme. Paiement à la livraison, un conseiller vous rappelle pour confirmer."
+    },
+    {
+      "id": 7,
+      "slug": "plaid-polaire-chine",
+      "name": "Plaid polaire chiné",
+      "category": "Plaids & Couvertures",
+      "price": 29.9,
+      "oldPrice": 36.9,
+      "sku": "LMU-007",
+      "colors": [
+        {
+          "name": "Gris chiné",
+          "hex": "#B7B3AC"
+        },
+        {
+          "name": "Camel",
+          "hex": "#B08D57"
+        },
+        {
+          "name": "Prune",
+          "hex": "#6B4257"
+        }
+      ],
+      "image": "plaid-polaire-chine.svg",
+      "shortDescription": "Polaire chinée moelleuse 130x170 cm, idéale canapé ou pied de lit.",
+      "description": "Doux et léger, ce plaid en polaire chinée se glisse aussi bien sur le canapé qu'en pied de lit. Son grammage généreux lui donne une belle tenue sans être trop lourd.",
+      "metaTitle": "Plaid polaire chiné 130x170 cm | Linge Maison Univers",
+      "metaDescription": "Plaid en polaire chinée, doux et chaud, plusieurs coloris. Commande confirmée par téléphone, paiement à la livraison. Voir le produit."
+    },
+    {
+      "id": 8,
+      "slug": "alese-protege-matelas",
+      "name": "Alèse protège-matelas imperméable",
+      "category": "Protection literie",
+      "price": 19.9,
+      "oldPrice": null,
+      "sku": "LMU-008",
+      "colors": [
+        {
+          "name": "Blanc",
+          "hex": "#FBFAF7"
+        }
+      ],
+      "image": "alese-protege-matelas.svg",
+      "shortDescription": "Molleton coton, membrane imperméable et respirante, bonnets élastiqués.",
+      "description": "Cette alèse protège durablement votre matelas grâce à sa membrane imperméable et respirante, sans effet plastique ni bruit au contact. Les bonnets élastiqués s'adaptent aux matelas jusqu'à 30 cm d'épaisseur.",
+      "metaTitle": "Alèse protège-matelas imperméable | Linge Maison Univers",
+      "metaDescription": "Alèse imperméable et respirante pour protéger votre matelas au quotidien. Livraison rapide, paiement à la livraison à la confirmation par téléphone."
+    },
+    {
+      "id": 9,
+      "slug": "linge-lit-enfant-etoiles",
+      "name": "Linge de lit enfant motif Étoiles",
+      "category": "Linge enfant",
+      "price": 39.9,
+      "oldPrice": null,
+      "sku": "LMU-009",
+      "colors": [
+        {
+          "name": "Bleu nuit",
+          "hex": "#1F2A3C"
+        },
+        {
+          "name": "Rose poudré",
+          "hex": "#E3C9C6"
+        }
+      ],
+      "image": "linge-lit-enfant-etoiles.svg",
+      "shortDescription": "Housse de couette + taie en coton doux, imprimé étoiles, format 140x200.",
+      "description": "Ce linge de lit pour enfant marie un coton doux et un imprimé étoiles discret, pour une chambre apaisante. Certifié sans substances nocives, il résiste bien aux lavages fréquents.",
+      "metaTitle": "Linge de lit enfant motif Étoiles | Linge Maison Univers",
+      "metaDescription": "Linge de lit enfant en coton doux, imprimé étoiles, format 140x200. Paiement à la livraison, commande confirmée par un appel de notre équipe."
+    },
+    {
+      "id": 10,
+      "slug": "nappe-coton-lave-assortie",
+      "name": "Nappe en coton lavé assortie",
+      "category": "Table & Textile maison",
+      "price": 32.9,
+      "oldPrice": null,
+      "sku": "LMU-010",
+      "colors": [
+        {
+          "name": "Lin naturel",
+          "hex": "#D8CBB5"
+        },
+        {
+          "name": "Sauge",
+          "hex": "#8A9A82"
+        }
+      ],
+      "image": "nappe-coton-lave-assortie.svg",
+      "shortDescription": "Coton lavé 150x250 cm, pour compléter votre univers linge de maison.",
+      "description": "Pensée pour prolonger l'univers de la chambre jusqu'à la table, cette nappe en coton lavé apporte la même douceur matière que nos parures. Format généreux 150x250 cm, idéal pour une table de 6 à 8 personnes.",
+      "metaTitle": "Nappe en coton lavé 150x250 cm | Linge Maison Univers",
+      "metaDescription": "Nappe coton lavé 150x250 cm assortie à notre linge de lit. Livraison à domicile, paiement à la livraison après confirmation téléphonique."
+    }
+  ]
+}

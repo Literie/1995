@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Merci pour votre réservation | Linge Maison Univers</title>
+<meta name="description" content="Votre réservation a bien été enregistrée. Un conseiller Linge Maison Univers vous rappelle pour confirmer la commande.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="/1995/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/1995/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Karla:wght@400;500;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/1995/index.html">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="34" height="34"><path d="M6 30 C6 14, 34 14, 34 30" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M11 30 C11 19, 29 19, 29 30" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" opacity=".55"/></svg>
+      </span>
+      <span class="brand-text">
+        <span class="brand-name">Linge Maison Univers</span>
+        <span class="brand-slogan">Ma maison en beauté</span>
+      </span>
+    </a>
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="siteNav">
+      <span></span><span></span><span></span>
+      <span class="sr-only">Menu</span>
+    </button>
+    <nav class="site-nav" id="siteNav">
+      <a href="/1995/index.html#produits">Produits</a>
+      <a href="/1995/index.html#comment-ca-marche">Comment ça marche</a>
+      <a href="/1995/index.html#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+<main>
+  <section class="section merci">
+    <div class="wrap merci-inner">
+      <span class="merci-icon" aria-hidden="true">✓</span>
+      <h1>Merci, votre réservation est enregistrée</h1>
+      <p>📞 Un conseiller Linge Maison Univers va vous appeler prochainement pour confirmer votre commande, les détails de livraison et la date de passage.</p>
+      <p>💶 Rappel : aucun paiement en ligne n'est nécessaire. Vous réglerez en espèces au moment de la livraison.</p>
+      <a class="btn btn-primary" href="/1995/index.html#produits">Continuer mes achats</a>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer" id="contact">
+  <div class="wrap footer-grid">
+    <div class="footer-col">
+      <p class="brand-name footer-brand">Linge Maison Univers</p>
+      <p class="footer-slogan">Ma maison en beauté</p>
+      <p class="footer-note">📞 Vous serez rappelé(e) pour confirmer votre commande.<br>💶 Paiement à la livraison, sans avance à payer en ligne.</p>
+    </div>
+    <div class="footer-col">
+      <p class="footer-title">Contact</p>
+      <ul class="footer-list">
+        <li><a href="tel:+33600000000">+33 6 00 00 00 00</a></li>
+        <li><a href="mailto:contact@lingemaisonunivers.fr">contact@lingemaisonunivers.fr</a></li>
+        <li>12 rue des Tisserands, 75000 Paris</li>
+      </ul>
+      <div class="footer-social">
+        <a href="https://instagram.com/lingemaisonunivers" aria-label="Instagram">Instagram</a>
+        <a href="https://facebook.com/lingemaisonunivers" aria-label="Facebook">Facebook</a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <p class="footer-title">Newsletter</p>
+      <p class="footer-note">Recevez nos nouveautés et nos offres, sans spam.</p>
+      <form class="newsletter-form" action="https://formspree.io/f/VOTRE_ID_FORMSPREE_NEWSLETTER" method="POST">
+        <label class="sr-only" for="newsletterEmail">Adresse e-mail</label>
+        <input id="newsletterEmail" name="email" type="email" required placeholder="votre@email.fr">
+        <button type="submit">S'inscrire</button>
+        <input type="hidden" name="_subject" value="Nouvelle inscription newsletter — Linge Maison Univers">
+      </form>
+      <p class="form-hint">* Configurez votre identifiant Formspree dans <code>products.json</code> (voir README).</p>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <p>© <span id="year"></span> Linge Maison Univers. Tous droits réservés.</p>
+  </div>
+</footer>
+<script src="/1995/main.js"></script>
+</body>
+</html>
